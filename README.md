@@ -31,4 +31,5 @@ A implementação dos serviços AWS na Testes Industries tem como esperado reduz
 
 **Assinatura do Responsável pelo Projeto:**  
 Gabriel Lima
+
 Projeto Educacional da DIO
